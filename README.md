@@ -1,6 +1,8 @@
 # Systux
 
-[![PyPI version](https://badge.fury.io/py/systux.svg)](https://badge.fury.io/py/systux)
+![PyPI - Version](https://img.shields.io/pypi/v/systux)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/systux)
+
 
 ## Command line software.
 
