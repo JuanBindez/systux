@@ -1,6 +1,7 @@
 # Systux
 
 ![PyPI - Version](https://img.shields.io/pypi/v/systux)
+![GitHub contributors](https://img.shields.io/github/contributors/JuanBindez/systux)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/systux)
 ![PyPI - License](https://img.shields.io/pypi/l/systux)
 
